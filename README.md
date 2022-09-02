@@ -13,13 +13,6 @@ A zsh theme that highlight ip address
 
 ![tun0](images/tunip.png)
 
-```bash
-
-┌─[elite@glitch] - [~/my-zsh-config] - [10.0.0.1]
-└─[0]     
-
-``=
-
 ### How-to-use
 
 - Install oh-my-zsh from <a href=https://ohmyz.sh/> here </a>
