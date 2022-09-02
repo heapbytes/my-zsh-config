@@ -7,14 +7,11 @@ A zsh theme that highlight ip address
 
 ### eth0/ wlp6s0 ip highlight
 
-```bash
-
-┌─[elite@glitch] - [~/my-zsh-config] - [192.168.1.14]
-└─[0]     
-
-```
+![eth0](images/privip.png)
 
 ### tun0 ip highlight
+
+![tun0](images/tunip.png)
 
 ```bash
 
